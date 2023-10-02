@@ -1,2 +1,2 @@
 # Introgit
-Seminar intro git og R
+Seminar intro git og R.
